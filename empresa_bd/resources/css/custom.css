@@ -1,0 +1,9 @@
+.pagination-custom .page-link {
+    padding: 0.1rem 0.2rem;
+    font-size: 0.2rem;
+}
+
+.pagination-custom .page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+}
